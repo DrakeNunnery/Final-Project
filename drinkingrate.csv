@@ -1,4 +1,3 @@
-Excessive Drinking Rate,
-,Amount of Ppl Who Drink Excessive
-Male,"487,443"
-Female,"308,618"
+gender,excessiveDrinkers
+Male,487443
+Female,308618
